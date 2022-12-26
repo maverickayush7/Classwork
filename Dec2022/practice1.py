@@ -13,4 +13,4 @@ y=[1,2,3,4,34,23]
 s= [i for i in y if i==max(y)]
 print(s)
 
-#display list of number and list of strings (both the list of same size ) combine two list to make a list of tuples
+#display list of number and list of strings .both the list of same size . combine two list to make a list of tuples
