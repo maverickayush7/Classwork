@@ -42,6 +42,7 @@ class B(A):
     def __init__(self):
         self.obj3=A()
         print("class B obj init")
+        # self.obj3=A()
     def m2(self):
         self.obj3.m1()
         print("this is a method in class B")

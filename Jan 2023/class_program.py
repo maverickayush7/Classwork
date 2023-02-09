@@ -1,10 +1,10 @@
 # program - define class called employee have 2 class varibles and 1 method 
 
 class employee():
-    company="maverick.ltd"
-    address="Bengaluru"
+    company="maverick.ltd"  #class variable 
+    address="Bengaluru"     #class variable
 
-    def display(this):
+    def display(this):      # method 
         print(this.company,this.address)
         
 obj=employee()
